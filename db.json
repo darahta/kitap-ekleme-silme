@@ -1,0 +1,57 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Yabana",
+      "author": "Yakup kadir karaosmanoğlu",
+      "categoryId": "1",
+      "isbn": "1111111111"
+    },
+    {
+      "id": 2,
+      "name": "Yeraldından Notlar",
+      "author": "Dostoyevski",
+      "categoryId": "2",
+      "isbn": "11111111112"
+    },
+    {
+      "id": 3,
+      "name": "Denemeler",
+      "author": "Montaigne",
+      "categoryId": "3",
+      "isbn": "11111111113"
+    },
+    {
+      "id": 1663661346467,
+      "name": "kitap adı",
+      "author": "mehmet süm",
+      "categoryId": "1",
+      "isbn": "33"
+    },
+    {
+      "id": 1663741409306,
+      "name": "telefon rehberi1",
+      "author": "telefoncu",
+      "categoryId": "3",
+      "isbn": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Roman"
+    },
+    {
+      "id": 2,
+      "name": "Hikaye"
+    },
+    {
+      "id": 3,
+      "name": "Deneme"
+    },
+    {
+      "id": 1664820006643,
+      "name": "Fdfdsf"
+    }
+  ]
+}
